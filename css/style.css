@@ -35,7 +35,7 @@ body {
     text-shadow: 1px 1px 1px #222;
     margin-top: 0;
     margin-bottom: 0;
-    line-height: 0.75;
+    line-height: 1.1;
 }
 .navbar-brand a:hover, .navbar-brand a:focus
 {
@@ -318,7 +318,7 @@ h3.menu-item-title {
     .navbar-brand p{  /* Kosher cert*/
         text-transform: uppercase;
         font-size: .6em;
-        margin-top: 12px;
+        margin-top: 2px;
     }
     .navbar-brand p img{   /*star k*/
         height: 20px;
